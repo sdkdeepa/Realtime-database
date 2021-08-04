@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet&display=swap');
+
+h1{
+    color:brown;
+    text-align: center;
+    font-family: 'Hahmlet', serif;
+    font-size: 4rem;
+}
+
+ul {
+    margin-left: 100px;
+}
+
+li{
+    font-family: 'Hahmlet', serif;
+    font-size: 2rem;
+    color:darkcyan;
+}
